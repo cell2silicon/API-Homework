@@ -2,10 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+python
+API_practice.ipynb
+random_numbers.ipynb
+# Adding config.py file.
 # C extensions
 *.so
-
+api_keys.py
 # Distribution / packaging
 .Python
 build/
