@@ -8,7 +8,7 @@ random_numbers.ipynb
 # Adding config.py file.
 # C extensions
 *.so
-**api_keys.py
+**.api_keys.py
 # Distribution / packaging
 .Python
 build/
